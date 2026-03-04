@@ -28,11 +28,6 @@ I do not just write code or deploy basic applications; I engineer entire digital
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/shubham-dg10">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubham-dg10&show_icons=true&title_color=7C3AED&icon_color=7C3AED&text_color=333333&bg_color=ffffff&hide_border=true&theme=default" alt="Shubham's GitHub Stats" />
-  </a>
-</div>
 
 ---
 <div align="center">
