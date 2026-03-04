@@ -2,8 +2,7 @@
   # Shubham Singh 
   **Founder & Lead Engineer @ DG10 Agency**
   
-  <a href="https://dg10.agency/meet-the-founder"><img src="https://img.shields.io/badge/Agency-DG10-7C3AED?style=for-the-badge&logo=codeigniter&logoColor=white" alt="DG10 Agency" /></a>
-  <a href="https://linkedin.com/in/shubham-dg10"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="[https://linkedin.com/in/shubham-dg10](https://www.linkedin.com/in/shubhamdg10)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:shubham@dg10.agency"><img src="https://img.shields.io/badge/Contact-Email-10B981?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Contact" /></a>
 
   ---
